@@ -100,3 +100,31 @@
     z-index: 2;
     top: -255px;
 }
+.about_center{
+    display: inline-block;
+    vertical-align: middle;
+    height: 600px;
+    width: 600px;
+    background: url(../../images/page01_1.png);
+    /*background-repeat: no-repeat;*/
+}
+.about_center img{
+    position: relative;
+    top: 100px;
+}
+.contact_center{
+    display: inline-block;
+    vertical-align: middle;
+    height: 600px;
+    width: 600px;
+    background: url(../../images/page04_1.png);
+    /*background-repeat: no-repeat;*/
+}
+.contact_content{
+    position: relative;
+    top: 100px;
+}
+.contact_mail{
+    position: relative;
+    top: -20px;
+}
